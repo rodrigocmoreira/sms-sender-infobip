@@ -1,0 +1,5 @@
+{
+  "INFOBIP_SEND_URL": "https://api.infobip.com/sms/1/text/single",
+  "INFOBIP_AUTH_KEY": "Basic YourkeyHere",
+  "INFOBIP_HOST": "api.infobip.com"
+}
